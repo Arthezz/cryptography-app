@@ -3,7 +3,7 @@ It's my first application in JavaFx
 I have done it for college project
 It's also my first time when I'm using CSS
 
-You can encrypt following characters: abcdefghijklmnopqrstuvwxyz,. ?!_ 
+You can encrypt following characters: abcdefghijklmnopqrstuvwxyz,. ?!_ by using this app
 To decrypt you can use: 0123456789sqrtln/- =*()^+
 But you need to know combinations of these characters
 
