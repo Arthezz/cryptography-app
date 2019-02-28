@@ -20,7 +20,7 @@ But you need to know combinations of these characters. So if you want just try i
 
 #### Setup
 
-If you want to open .jar file, you will need Java SE Runtime Environment in 8 version at least
+If you want to open .jar file, you will need Java SE Runtime Environment at 8 version at least
 
 
 ##### Remarks 
